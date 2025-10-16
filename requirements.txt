@@ -1,0 +1,7 @@
+pycryptodome
+requests
+flask
+pillow
+websockets
+configparser
+pyjwt
