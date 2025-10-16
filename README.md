@@ -24,7 +24,7 @@
      username = your_username
      password = your_password
      IP地址格式：
-     起迪打印机：192.168.0.1
+     起迪打印机（局域网IP）：192.168.0.1
      其他：192.168.0.1:7890
      [wechat] 修改如下：
      corp_id企业微信企业ID（路径：我的企业->企业信息->企业ID）
